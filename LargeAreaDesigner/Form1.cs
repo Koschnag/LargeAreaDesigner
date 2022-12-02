@@ -29,5 +29,10 @@ namespace LargeAreaDesigner
 
             tabControl1.SelectTab(tabIndex);
         }
+
+        private void abschicken_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
